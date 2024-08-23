@@ -1,4 +1,6 @@
-body {}
+body {
+    margin: 0;
+}
 
 /* quando o seletor começa com . é uma classe */
 .container {
