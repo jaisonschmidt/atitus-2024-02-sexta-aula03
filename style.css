@@ -1,0 +1,7 @@
+body {}
+
+.container {
+    background-color: blue;
+    margin-inline: auto;
+    max-width: 760px;
+}
