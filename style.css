@@ -1,7 +1,12 @@
 body {}
 
+/* quando o seletor começa com . é uma classe */
 .container {
     background-color: blue;
     margin-inline: auto;
     max-width: 760px;
+}
+
+.mainBanner {
+    width: 100%;
 }
