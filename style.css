@@ -37,3 +37,14 @@ body {
     text-decoration: none;
     width: 180px;
 }
+
+.footer {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.footer a {
+    color: white;
+}
